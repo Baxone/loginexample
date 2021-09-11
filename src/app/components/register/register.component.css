@@ -1,0 +1,13 @@
+.register {
+  height: 100vh;
+}
+
+.register div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.register div:first-child {
+  border-right: 2px solid #444;
+}
